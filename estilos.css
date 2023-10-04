@@ -44,11 +44,10 @@ input[type="checkbox"]:focus {
 }
 
 .botao-padrao {
-  background-color: var(--marrom-escuro);
+  background-color: var(--marrom-claro);
   color: var(--bege);
 }
 
 .botao-padrao:hover {
-  color: var(--marrom-escuro);
-  border: 1px solid var(--bege);
+  background-color: var(--marrom-escuro);
 }
